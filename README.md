@@ -233,4 +233,4 @@ This project was developed as part of **CS251 — Software Engineering** at Helw
 
 ## License
 
-This project was developed for academic purposes at Helwan University.
+This project is licenced under the ISC licence. 
