@@ -1,6 +1,6 @@
 # Collaborative Itinerary & Group Travel Planner
 
-A full-stack web application for planning group trips — built with PHP using the MVC architectural pattern. The system handles everything from itinerary creation and activity scheduling to group expense splitting, attendance tracking, and insurance compliance.
+A full-stack web application for planning group trips, built mainly with PHP using the MVC architectural pattern. The system has everything you need to enjoy a trip with minimal worries about finance, places to go, and even what to eat. Because everything will be planned out by you, for you.
 
 ---
 
@@ -20,7 +20,7 @@ A full-stack web application for planning group trips — built with PHP using t
 
 ## Overview
 
-Managing a group trip is hard. Coordinating schedules, splitting costs fairly, tracking who is bringing what, and making sure everyone has their paperwork in order — it all falls apart without a system. This project is a collaborative platform where a Trip Leader creates an itinerary, invites members, and the group manages everything in one place.
+Managing a group trip is hard. Coordinating schedules, splitting costs fairly, tracking who is bringing what, and making sure everyone has their paperwork in order, it all falls apart without a system. This project is a collaborative platform where a Trip Leader creates an itinerary, invites members, and the group manages everything in one place.
 
 The system supports three roles:
 - **Trip Leader** — full control over the itinerary, budget, members, and compliance
@@ -220,6 +220,15 @@ This project was developed as part of **CS251 — Software Engineering** at Helw
 | Black-Box Tests | Equivalence Partitioning and Boundary Value Analysis |
 
 > 📄 The full SRS document is available [here](https://docs.google.com/document/d/1NGR51ErqiIZKFz50xp_exyNUWO6wnsoBEF2JEzyVY4w/edit?pli=1&tab=t.so06fsy14777#heading=h.awdn1irwo31) 
+
+## Screenshots
+<img width="1920" height="936" alt="image" src="https://github.com/user-attachments/assets/41fb2988-f80a-4d09-9fc3-1bf0d53599d6" />
+<img width="1920" height="936" alt="image" src="https://github.com/user-attachments/assets/90d04418-75e2-4df9-b916-61baf9ef159a" />
+<img width="1920" height="936" alt="image" src="https://github.com/user-attachments/assets/21aca798-91e6-48f7-9c57-e922883b8cbf" />
+<img width="1920" height="936" alt="image" src="https://github.com/user-attachments/assets/48fc118c-9d9a-4464-8e1f-321b0f007a57" />
+<img width="1920" height="936" alt="image" src="https://github.com/user-attachments/assets/c81492d6-4aea-475f-b1e6-33119d56fba4" />
+<img width="1920" height="936" alt="image" src="https://github.com/user-attachments/assets/904bfd90-9c11-4bae-b3ad-09deff99bebe" />
+<img width="1920" height="936" alt="image" src="https://github.com/user-attachments/assets/47fe79c8-3746-4c05-91f8-10f03cb9b854" />
 
 ---
 
