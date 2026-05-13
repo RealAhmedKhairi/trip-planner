@@ -14,7 +14,6 @@ A full-stack web application for planning group trips, built mainly with PHP usi
 - [Project Structure](#project-structure)
 - [Design Patterns](#design-patterns)
 - [Documentation](#documentation)
-- [Team](#team)
 
 ---
 
